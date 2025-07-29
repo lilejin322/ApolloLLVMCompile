@@ -4,7 +4,7 @@ This is a guide repository for compiling the [Baidu Apollo](https://github.com/A
 
 Currently, support has been implemented for four major versions of Apollo: 6.0, 7.0, 8.0, and 9.0.
 
-We have tested it on four CPU-only machines, and no issues have occurred. If you encounter any issues, feel free to open an issue in this repository. I’ll respond as soon as I see it.
+I have tested it on four CPU-only machines, and no issues have occurred. If you encounter any issues, feel free to open an issue in this repository. I’ll respond as soon as I see it.
 
 ## Quickstart
 
